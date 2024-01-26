@@ -40,3 +40,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ```sh
 pnpm i @radix-ui/react-tabs
 ```
+
+## Anination Lib
+
+[Framer Motion](https://www.framer.com/motion/)
+
+```sh
+pnpm i framer-motion
+```
